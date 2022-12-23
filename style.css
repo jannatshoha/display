@@ -1,0 +1,16 @@
+/* Header Css */
+#display h1,span {
+    border: 5px solid;
+}
+#display h1 {
+    background: greenyellow;
+}
+
+#display span {
+    background: rgb(41, 73, 255);
+
+
+}
+
+
+/* header Css End */
